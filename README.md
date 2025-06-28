@@ -16,6 +16,6 @@ Deliverables:
 - Plots showing cluster separation and decision
 
 ## Submit:
-Notebook + Slides (5–7) or Report (2–3 pages)
+Code + Report (2–3 pages)
 
 ## Estimated time: 2 weeks
